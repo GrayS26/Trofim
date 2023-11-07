@@ -1365,6 +1365,12 @@ body {
   }
 }
 
+@media (min-width: 85.5em) {
+  .page__order {
+    margin-top: 37.5rem;
+  }
+}
+
 @media (min-width: 87.375em) {
   body {
     font-size: 3rem;
@@ -2138,6 +2144,10 @@ body {
 }
 
 @media (max-width: 47.99875em) {
+  .page__order {
+    margin-top: 25rem;
+  }
+
   .store-stories__title {
     letter-spacing: -0.15625rem;
     white-space: wrap;
